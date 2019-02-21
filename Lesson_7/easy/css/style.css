@@ -2,18 +2,23 @@ body{
   font-family: sans-serif;
 }
 h1{
-  text-transform: uppercase;
+text-transform: uppercase;
+}
+.title{
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 125px;
 }
 .product a{
   display: inline-block;
   color: #23bac1;
-  padding: 23px 74px;
+  font-style: 13px;
+  padding-top: 23px;
+  padding-bottom: 23px;
   text-decoration: none;
   width: 200px;
   cursor: pointer;
   border: solid 1px;
-  text-transform: uppercase;
-  font-weight:bold;
 }
 .content{
   display: flex;
