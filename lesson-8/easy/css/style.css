@@ -77,6 +77,8 @@ text-transform: uppercase;
   border-radius: 6px; 
   padding: 20px 30px;
   color: #fff;
+  width: 214px;
+  height: 66px;
 }
 .btn-success{
   background-color: #2dce89;
