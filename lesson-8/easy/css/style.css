@@ -112,6 +112,9 @@ text-transform: uppercase;
   width: 23%;
   margin-left: 2%;
 }
+.block img{
+  margin-bottom: 40px;
+}
 .block-text{
   font-size: 16px;
   font-weight: 400;
