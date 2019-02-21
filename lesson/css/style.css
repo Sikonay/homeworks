@@ -1,0 +1,39 @@
+header{
+  display: block;
+  text-align: center;
+} 
+.wrap{
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center; 
+  margin: 50px;
+}
+strong, a{
+  display: inline-block;
+}
+strong{
+  width: 100%;
+}
+a{
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  width: 214px;
+  height: 40px;
+  text-decoration: none;
+  border-radius: 6px;
+  padding: 15px;
+  color: #fff;
+  display: inline-block;
+  text-align: center;
+}
+.complicated{
+
+  background-color: #5e72e4;
+
+}
+.required{
+  background-color: #ea5b3e;
+  
+}
