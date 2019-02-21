@@ -1,0 +1,28 @@
+body{
+  font-family: sans-serif;
+}
+h1{
+text-transform: uppercase;
+}
+.product a{
+  color: #23bac1;
+  padding: 23px 74px;
+  text-decoration: none;
+  width: 200px;
+  cursor: pointer;
+  border: solid 1px;
+}
+.content{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.product{
+  text-align: center;
+}
+.active{
+  flex-basis: 100%;
+}
+.bold{
+  font-weight:bold;
+}
