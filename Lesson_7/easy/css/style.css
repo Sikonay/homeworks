@@ -2,7 +2,7 @@ body{
   font-family: sans-serif;
 }
 h1{
-text-transform: uppercase;
+  text-transform: uppercase;
 }
 .product a{
   display: inline-block;
@@ -12,6 +12,7 @@ text-transform: uppercase;
   width: 200px;
   cursor: pointer;
   border: solid 1px;
+  text-transform: uppercase;
 }
 .content{
   display: flex;
