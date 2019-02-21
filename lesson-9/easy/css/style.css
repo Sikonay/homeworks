@@ -1,0 +1,20 @@
+.header{
+  text-align: center;
+}
+img, span{
+  display: block;
+  margin: 0 auto; 
+}
+.block{
+  text-align: center;
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 15px;
+}
+span{
+  width: 122px;
+  margin-top: 20px;
+}
+.row{
+  margin-top: 70px;
+}
