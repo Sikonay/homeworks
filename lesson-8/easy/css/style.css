@@ -75,9 +75,10 @@ text-transform: uppercase;
   text-decoration: none;
   box-shadow: 0 3px 6px rgba(173, 173, 173, 0.16);
   border-radius: 6px; 
-  padding: 20px 30px;
+  padding: 25px 30px;
   color: #fff;
   display: inline-block;
+  text-align: center;
 }
 .btn-success{
   background-color: #2dce89;
