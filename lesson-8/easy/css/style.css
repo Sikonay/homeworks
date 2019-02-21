@@ -77,15 +77,17 @@ text-transform: uppercase;
   border-radius: 6px; 
   padding: 20px 30px;
   color: #fff;
-  width: 214px;
-  height: 66px;
 }
 .btn-success{
   background-color: #2dce89;
   margin-right: 20px;
+  width: 214px;
+  height: 66px;
 }
 .btn-primary{
   background-color: #5e72e4;
+  width: 250px;
+  height: 66px;
 }
 .section{
   padding-top: 100px;
