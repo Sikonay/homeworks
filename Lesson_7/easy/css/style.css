@@ -5,6 +5,7 @@ h1{
 text-transform: uppercase;
 }
 .product a{
+  display: inline-block;
   color: #23bac1;
   padding: 23px 74px;
   text-decoration: none;
