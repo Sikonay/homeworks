@@ -4,6 +4,9 @@ body{
 img{
   max-width: 100%;
 }
+.navbar{
+  padding: 0;
+}
 .subtitle{
   font-size: 20px;
   font-weight: 400;
@@ -19,6 +22,7 @@ img{
 .price{
   font-size: 48px;
   font-weight: 400;
+  color: #525f7f;
 }
 .main{
   margin-top: 100px;
@@ -56,4 +60,11 @@ footer a{
 .footer-wrap{
   padding-top: 70px;
   padding-bottom: 70px;
+}
+.btn{
+  font-size: 20px;
+  font-weight: 700;
+}
+.main-image{
+  text-align: right;
 }
