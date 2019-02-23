@@ -64,6 +64,7 @@ footer a{
 .btn{
   font-size: 20px;
   font-weight: 700;
+  margin-bottom: 10px;
 }
 .main-image{
   text-align: right;
@@ -72,7 +73,6 @@ footer a{
   width: 214px;
   height: 65px;
   padding-top: 15px;
-  margin-bottom: 15px;
 }
 .btn-primary{
   width: 250px;
