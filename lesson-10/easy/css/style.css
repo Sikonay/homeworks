@@ -72,9 +72,10 @@ footer a{
   width: 214px;
   height: 65px;
   padding-top: 15px;
+  margin-bottom: 15px;
 }
 .btn-primary{
   width: 250px;
-  height: 66px;
+  height: 65px;
   padding-top: 15px;
 }
